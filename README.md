@@ -1,1 +1,1 @@
-[http://jjvenky.github.io/test]
+http://jjvenky.github.io/test
